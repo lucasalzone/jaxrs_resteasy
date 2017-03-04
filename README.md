@@ -51,7 +51,7 @@ Di seguito la configurazione utilizzata, dove si può notare che è stato utiliz
 
 ```	xml
 	
-	<servlet>stessa
+	<servlet>
 		<servlet-name>resteasy-servlet</servlet-name>
 		<servlet-class>org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher</servlet-class>
 		<init-param>
