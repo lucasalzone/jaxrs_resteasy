@@ -45,7 +45,7 @@ Di seguito una breve descrizione:
 
 ## Configurazione Servlet (web.xml)
 Per poter utilizzare l'implementazione di RESTEasy, anche con questa implementazione è possibile configurare sia una servlet che un listener per esporre i servizi.
-stessa
+
 Di seguito la configurazione utilizzata, dove si può notare che è stato utilizzato il parametro **resteasy.scan** per dirgli di attivare lo scan su tutte le classi per cercare i servizi da esporre, oltre che il parametro **org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher** per dirgli su quale prefisso esporre il servizio, che di default è /*.
 
 
