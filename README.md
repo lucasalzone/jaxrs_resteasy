@@ -88,3 +88,5 @@ public class HelloWorld {
 
 ## Test Resource
 Inserendo sul browser l'url http://<context-pat>/api/hello, potremmo vedere il nostro servizio funzionante.
+	
+<iframe src="www.google.it"></iframe>
